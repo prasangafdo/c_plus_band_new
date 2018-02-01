@@ -14,9 +14,17 @@
 Route::get('/', function () {
     return view('index');//Changed from welcome
 });
-
 Route::get('about', function () {
-    return view('about');//Changed from welcome
+    return view('about');
+});
+Route::get('gallery', function () {
+    return view('gallery');
+});
+Route::get('events', function () {
+    return view('events');
+});
+Route::get('contact', function () {
+    return view('contact');//Need to configure with the controller later
 });
 
 Auth::routes();

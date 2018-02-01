@@ -39,17 +39,16 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	<div class="container">
 		<div class="header">
 				<div class="logo">
-					<h1><a href="index.html">Music Band</a></h1>
+					<h1><a href="index.html">C Plus</a></h1>
 				</div>
 				<div class="top-nav">
 					<span class="menu"> <img src="images/icon.png" alt=""/></span>
 					<ul class="res">
 					   <li><a href="index" class="active"><span class="glyphicon glyphicon-home" aria-hidden="true"> </span></a></li> 
 						<li><a href="about">About Band</a></li> 
-						<li><a href="typo.html">Typo</a></li> 
-						<li><a href="gallery.html">Gallery</a></li> 
-						<li><a href="events.html">Events</a></li> 
-						<li class="nav-line"><a href="contact.html">Contact</a></li> 
+						<li><a href="gallery">Gallery</a></li> 
+						<li><a href="events">Events</a></li> 
+						<li class="nav-line"><a href="contact">Contact</a></li> 
 				   </ul>
 					<!-- script-for-menu -->
 						 <script>
